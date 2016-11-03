@@ -1,0 +1,9 @@
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\shiro\ShiroCacheManager.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\utils\SerializeUtils.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\shiro\impl\JedisShiroCache.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\shiro\ShiroSessionRepository.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\cache\CustomShiroCacheManager.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\cache\CustomShiroSessionDao.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\shiro\impl\JedisShiroCacheManager.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\shiro\impl\JedisShiroSessionRepository.java
+D:\workspaces\core\purpose-redis\src\main\java\com\purpose\cache\RedisManager.java

@@ -1,0 +1,9 @@
+com\purpose\cache\RedisManager.class
+com\purpose\shiro\impl\JedisShiroCacheManager.class
+com\purpose\cache\CustomShiroCacheManager.class
+com\purpose\shiro\impl\JedisShiroCache.class
+com\purpose\cache\CustomShiroSessionDao.class
+com\purpose\utils\SerializeUtils.class
+com\purpose\shiro\ShiroSessionRepository.class
+com\purpose\shiro\ShiroCacheManager.class
+com\purpose\shiro\impl\JedisShiroSessionRepository.class
